@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Main-Class: SudokuGUI" > manifest.txt
+rm *class
+javac SudokuGUI.java
+jar cvfm EhsanSudoku.v0.5.jar manifest.txt *class
+java -jar EhsanSudoku.v0.5.jar &
+
+
