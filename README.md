@@ -4,5 +4,6 @@
 
             $ java -jar EhsanSudoku.v0.5.jar
 
-![demo](https://user-images.githubusercontent.com/13570487/74612897-fe64ff80-50c6-11ea-9c57-be78d641f212.png)
+![EhsanSudoku_Demo](https://user-images.githubusercontent.com/13570487/74612986-995dd980-50c7-11ea-868f-e2320691b911.png)
+
 
